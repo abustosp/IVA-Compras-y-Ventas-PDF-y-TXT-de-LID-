@@ -1,9 +1,10 @@
 {
   "name": "Libro Ventas y Compras SOS_Windows",
+  "projectId": "f91df90a-1205-4aa5-a471-addaa35ee2e5",
   "description": "Descarga de Libros de Ventas y Compras del SOS",
   "main": "Descarga_Libros_Mono_solo_LIV_Con_Carpetas.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "2.11.4",
+    "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.System.Activities": "[21.10.4]",
     "UiPath.UIAutomation.Activities": "[21.10.5]"
   },
